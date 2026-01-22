@@ -10,6 +10,9 @@ __Этапы проекта__
   * Настройка интерактивных элементов и фильтров.
   * Тестирование и финальная проверка перед запуском.
 
-![Sales_Dashboard](https://image2url.com/r2/default/videos/1769089676315-4e8721f5-dbf4-4771-a7cf-3ecc97db19b3.mp4)
+[Sales_Dashboard](https://github.com/user-attachments/assets/9edd06c9-d720-43f1-a6d7-f750256163ff)
+
+
+
 
 
