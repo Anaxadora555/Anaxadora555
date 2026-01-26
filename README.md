@@ -17,6 +17,8 @@ __Sales_Dashboard - это интерактивный дашборд для от
 
 https://github.com/user-attachments/assets/376ec2ab-512f-4631-88f4-dc15d00b302a
 
+Ссылка на дашборд: <a href="https://github.com/Anaxadora555/Sales_Dashboard/blob/99213da5732632690e917936a2306785247bd5ed/README.md">Sales_Dashboard</a><br>
+
 ## Computer_Store_Dashboard
 __Computer_Store_Dashboard - это интерактивный дашборд для анализа продаж сети компьютерных магазинов. Сводит различные показатели для комплексной оценки выручки и работы магазинов. Включает отчёты по ежемесячным продажам, продажам по брендам и продажам по континентам.__
 
