@@ -23,6 +23,10 @@ https://github.com/user-attachments/assets/376ec2ab-512f-4631-88f4-dc15d00b302a
 __Computer_Store_Dashboard - это интерактивный дашборд для анализа продаж сети компьютерных магазинов. Сводит различные показатели для комплексной оценки выручки и работы магазинов. Включает отчёты по ежемесячным продажам, продажам по брендам и продажам по континентам.__
 
 
+Ссылка на дашборд: <a href="https://github.com/Anaxadora555/Computer_Store_Dashboard/blob/024b2b879108a8381aaa013b57288dcd2a8d9917/README.md">Computer_Store_Dashboard</a><br>
+
+
+
 
 https://github.com/user-attachments/assets/340a259e-7276-4ed0-a9b5-e72434ccbd16
 
